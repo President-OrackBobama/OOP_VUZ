@@ -1,0 +1,5 @@
+/home/spiderman/projects/OOP/lab1/tmp/CMakeFiles/lab1.dir
+/home/spiderman/projects/OOP/lab1/tmp/CMakeFiles/tests.dir
+/home/spiderman/projects/OOP/lab1/tmp/CMakeFiles/test.dir
+/home/spiderman/projects/OOP/lab1/tmp/CMakeFiles/edit_cache.dir
+/home/spiderman/projects/OOP/lab1/tmp/CMakeFiles/rebuild_cache.dir
