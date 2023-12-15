@@ -3,22 +3,14 @@
 #include <string>
 
 
-long eliminate_unset_bits(std::string number){
-    std::string out;
+long eliminate_unset_bits(const std::string& number) {
+    size_t count = 0;
+
     for (char ch : number) {
         if (ch == '1') {
-            out += ch;
+            count = count * 2 + 1;
         }
     }
 
-    int count = 0;
-    if (out.length() == 0) {
-        return 0;
-    }
-    else {
-        for(int i = 0; i < out.length(); ++i){
-            count = 1 + count*2;
-        }
-    }
     return count;
 }
