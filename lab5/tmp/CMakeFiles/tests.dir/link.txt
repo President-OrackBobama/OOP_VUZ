@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -Wall -rdynamic CMakeFiles/tests.dir/tests/test.cpp.o -o tests  /usr/lib/x86_64-linux-gnu/libgtest.a 
